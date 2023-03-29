@@ -2745,3 +2745,21 @@ Script Stack (4 frames) :
 [2023.03.29-23.38.15:984][595]LogEditorTransaction: Undo Create Pin Link
 [2023.03.29-23.38.23:998][ 68]BlueprintLog: New page: Compile BP_FirstPersonCharacter
 [2023.03.29-23.38.24:137][ 68]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2023.03.29-23.39.21:730][423]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2023.03.29-23.39.23:459][423]LogSlate: Window 'Save Content' being destroyed
+[2023.03.29-23.39.23:467][423]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.03.29-23.39.23:538][423]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Utku/Interact" FILE="../../../../../Jam Projects/RealProject/Project_Past/Project_Past/Content/Utku/Interact.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.03.29-23.39.23:608][423]LogUObjectHash: Compacting FUObjectHashTables data took   2.95ms
+[2023.03.29-23.39.24:132][423]LogSavePackage: Moving output files for package: /Game/Utku/Interact
+[2023.03.29-23.39.24:134][423]LogSavePackage: Moving '../../../../../Jam Projects/RealProject/Project_Past/Project_Past/Saved/Interact83A02ABC4492BB7C5DCBA78F07CF0BF4.tmp' to '../../../../../Jam Projects/RealProject/Project_Past/Project_Past/Content/Utku/Interact.umap'
+[2023.03.29-23.39.24:162][423]LogFileHelpers: Saving map 'Interact' took 0.624
+[2023.03.29-23.39.24:199][423]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Utku/BP_Chair" FILE="../../../../../Jam Projects/RealProject/Project_Past/Project_Past/Content/Utku/BP_Chair.uasset" SILENT=true
+[2023.03.29-23.39.24:352][423]LogSavePackage: Moving output files for package: /Game/Utku/BP_Chair
+[2023.03.29-23.39.24:353][423]LogSavePackage: Moving '../../../../../Jam Projects/RealProject/Project_Past/Project_Past/Saved/BP_Chair0075D567433676B5F024CBAE5EE83A39.tmp' to '../../../../../Jam Projects/RealProject/Project_Past/Project_Past/Content/Utku/BP_Chair.uasset'
+[2023.03.29-23.39.25:130][423]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2023.03.29-23.39.25:132][423]LogSavePackage: Moving '../../../../../Jam Projects/RealProject/Project_Past/Project_Past/Saved/BP_FirstPersonCharacter1A2F3C424E678244271CC1AC9FBA0814.tmp' to '../../../../../Jam Projects/RealProject/Project_Past/Project_Past/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2023.03.29-23.39.25:142][423]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.67 sec (total: 10.6 sec)
+[2023.03.29-23.39.25:152][423]AssetCheck: New page: Asset Save: multiple assets
+[2023.03.29-23.39.25:152][423]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2023.03.29-23.39.25:152][423]LogContentValidation: Display: Validating /Script/Engine.World /Game/Utku/Interact.Interact
+[2023.03.29-23.39.25:152][423]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Utku/BP_Chair.BP_Chair
