@@ -1159,3 +1159,78 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.04.20-14.19.24:746][451]LogEditor: Attempting to add actor of class 'SkyAtmosphere' to level at 0.00,0.00,0.00
 [2023.04.20-14.19.27:187][493]LogSlate: Took 0.025842 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
 [2023.04.20-14.19.42:629][379]LogEditorViewport: Clicking Background
+[2023.04.20-14.21.34:786][508]LogShaderCompilers: Display: ================================================
+[2023.04.20-14.21.34:787][508]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.04.20-14.21.34:787][508]LogShaderCompilers: Display: Total job queries 3689, among them cache hits 0 (0.00%)
+[2023.04.20-14.21.34:787][508]LogShaderCompilers: Display: Tracking 3677 distinct input hashes that result in 2625 distinct outputs (71.39%)
+[2023.04.20-14.21.34:787][508]LogShaderCompilers: Display: RAM used: 25.52 MB (0.02 GB) of 819.20 MB (0.80 GB) budget. Usage: 3.11%
+[2023.04.20-14.21.34:787][508]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.04.20-14.21.34:787][508]LogShaderCompilers: Display: Shaders Compiled: 3677
+[2023.04.20-14.21.34:787][508]LogShaderCompilers: Display: Jobs assigned 3681, completed 3677 (99.89%)
+[2023.04.20-14.21.34:787][508]LogShaderCompilers: Display: Average time worker was idle: 3.33 s
+[2023.04.20-14.21.34:787][508]LogShaderCompilers: Display: Time job spent in pending queue: average 284.38 s, longest 657.23 s
+[2023.04.20-14.21.34:787][508]LogShaderCompilers: Display: Job execution time: average 8.93 s, max 34.29 s
+[2023.04.20-14.21.34:787][508]LogShaderCompilers: Display: Job life time (pending + execution): average 293.62 s, max 659.76
+[2023.04.20-14.21.34:787][508]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 698.06 s
+[2023.04.20-14.21.34:787][508]LogShaderCompilers: Display: Jobs were issued in 446 batches (only local compilation was used), average 8.25 jobs/batch
+[2023.04.20-14.21.34:787][508]LogShaderCompilers: Display: Average processing rate: 5.27 jobs/sec
+[2023.04.20-14.21.34:787][508]LogShaderCompilers: Display: Total thread time: 3240.66 s
+[2023.04.20-14.21.34:787][508]LogShaderCompilers: Display: Total thread preprocess time: 173.21 s
+[2023.04.20-14.21.34:787][508]LogShaderCompilers: Display: Percentage time preprocessing: 5.34%
+[2023.04.20-14.21.34:787][508]LogShaderCompilers: Display: Effective parallelization: 4.64 (times faster than compiling all shaders on one thread). Compare with number of workers: 4
+[2023.04.20-14.21.34:787][508]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.04.20-14.21.34:787][508]LogShaderCompilers: Display:                                   FSSDTemporalAccumulationCS (compiled   10 times, average 8.73 sec, max 11.18 sec, min 6.72 sec)
+[2023.04.20-14.21.34:787][508]LogShaderCompilers: Display:                                          FClusteredShadingPS (compiled    4 times, average 7.79 sec, max 13.42 sec, min 2.83 sec)
+[2023.04.20-14.21.34:787][508]LogShaderCompilers: Display:                                  FDiffuseIndirectCompositePS (compiled    6 times, average 4.29 sec, max 9.64 sec, min 0.41 sec)
+[2023.04.20-14.21.34:787][508]LogShaderCompilers: Display:                                    FSSDSpatialAccumulationCS (compiled   33 times, average 3.09 sec, max 5.85 sec, min 1.65 sec)
+[2023.04.20-14.21.34:787][508]LogShaderCompilers: Display:                                             FDeferredLightPS (compiled  150 times, average 2.92 sec, max 5.56 sec, min 2.00 sec)
+[2023.04.20-14.21.34:787][508]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.04.20-14.21.34:787][508]LogShaderCompilers: Display:                                             FDeferredLightPS - 13.52% of total time (compiled  150 times, average 2.92 sec, max 5.56 sec, min 2.00 sec)
+[2023.04.20-14.21.34:787][508]LogShaderCompilers: Display:                      FRenderSingleScatteringWithPreshadingCS - 4.56% of total time (compiled  128 times, average 1.16 sec, max 4.20 sec, min 0.54 sec)
+[2023.04.20-14.21.34:787][508]LogShaderCompilers: Display:                                      FScreenProbeIntegrateCS - 4.00% of total time (compiled  128 times, average 1.01 sec, max 2.35 sec, min 0.69 sec)
+[2023.04.20-14.21.34:787][508]LogShaderCompilers: Display:                                  FScreenProbeTraceMeshSDFsCS - 3.53% of total time (compiled   96 times, average 1.19 sec, max 2.28 sec, min 0.47 sec)
+[2023.04.20-14.21.34:787][508]LogShaderCompilers: Display:                              FVolumetricFogLightScatteringCS - 3.43% of total time (compiled  128 times, average 0.87 sec, max 1.41 sec, min 0.62 sec)
+[2023.04.20-14.21.34:787][508]LogShaderCompilers: Display: ================================================
+[2023.04.20-14.21.37:361][626]LogSlate: Window 'Project Settings' being destroyed
+[2023.04.20-14.21.47:470][189]LogSlate: Window 'Plugins' being destroyed
+[2023.04.20-14.23.33:331][642]LogViewport: Scene viewport resized to 1440x858, mode Windowed.
+[2023.04.20-14.23.33:406][644]LogViewport: Scene viewport resized to 1245x858, mode Windowed.
+[2023.04.20-14.23.33:429][645]LogViewport: Scene viewport resized to 1214x858, mode Windowed.
+[2023.04.20-14.23.33:661][655]LogViewport: Scene viewport resized to 1210x858, mode Windowed.
+[2023.04.20-14.23.33:721][658]LogViewport: Scene viewport resized to 1214x858, mode Windowed.
+[2023.04.20-14.23.33:764][660]LogViewport: Scene viewport resized to 1218x858, mode Windowed.
+[2023.04.20-14.23.33:783][661]LogViewport: Scene viewport resized to 1220x858, mode Windowed.
+[2023.04.20-14.23.33:823][663]LogViewport: Scene viewport resized to 1225x858, mode Windowed.
+[2023.04.20-14.23.33:856][665]LogViewport: Scene viewport resized to 1232x858, mode Windowed.
+[2023.04.20-14.23.33:890][667]LogViewport: Scene viewport resized to 1236x858, mode Windowed.
+[2023.04.20-14.23.33:924][669]LogViewport: Scene viewport resized to 1237x858, mode Windowed.
+[2023.04.20-14.24.01:635][604]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2023.04.20-14.24.02:327][604]LogSlate: Window 'Save Content' being destroyed
+[2023.04.20-14.24.02:338][604]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.20-14.24.02:446][604]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Kunter/levelk" FILE="../../../../Unreal Projects/Project Past/Project_Past/Project_Past/Content/Kunter/levelk.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.04.20-14.24.02:457][604]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2023.04.20-14.24.02:548][604]LogSavePackage: Moving output files for package: /Game/Kunter/levelk
+[2023.04.20-14.24.02:548][604]LogSavePackage: Moving '../../../../Unreal Projects/Project Past/Project_Past/Project_Past/Saved/levelkF6A5473C4E3E0E24A443089E818AE401.tmp' to '../../../../Unreal Projects/Project Past/Project_Past/Project_Past/Content/Kunter/levelk.umap'
+[2023.04.20-14.24.02:704][604]LogFileHelpers: Saving map 'levelk' took 0.258
+[2023.04.20-14.24.02:716][604]LogFileHelpers: InternalPromptForCheckoutAndSave took 378 ms (total: 1.11 sec)
+[2023.04.20-14.24.02:718][604]AssetCheck: New page: Asset Save: levelk
+[2023.04.20-14.24.02:719][604]LogContentValidation: Display: Validating /Script/Engine.World /Game/Kunter/levelk.levelk
+[2023.04.20-14.24.04:127][687]LogEditorViewport: Clicking Background
+[2023.04.20-14.24.04:432][704]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.20-14.24.04:504][704]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Kunter/levelk" FILE="../../../../Unreal Projects/Project Past/Project_Past/Project_Past/Content/Kunter/levelk.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.04.20-14.24.04:514][704]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2023.04.20-14.24.04:518][704]LogSavePackage: Moving output files for package: /Game/Kunter/levelk
+[2023.04.20-14.24.04:519][704]LogSavePackage: Moving '../../../../Unreal Projects/Project Past/Project_Past/Project_Past/Saved/levelk8B0F8111480AAE3777FACEB63E7FD21E.tmp' to '../../../../Unreal Projects/Project Past/Project_Past/Project_Past/Content/Kunter/levelk.umap'
+[2023.04.20-14.24.04:533][704]LogFileHelpers: Saving map 'levelk' took 0.028
+[2023.04.20-14.24.04:543][704]LogFileHelpers: InternalPromptForCheckoutAndSave took 111 ms (total: 1.22 sec)
+[2023.04.20-14.24.04:548][704]AssetCheck: New page: Asset Save: levelk
+[2023.04.20-14.24.04:548][704]LogContentValidation: Display: Validating /Script/Engine.World /Game/Kunter/levelk.levelk
+[2023.04.20-14.24.05:192][742]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.20-14.24.05:263][742]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Kunter/levelk" FILE="../../../../Unreal Projects/Project Past/Project_Past/Project_Past/Content/Kunter/levelk.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.04.20-14.24.05:272][742]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2023.04.20-14.24.05:277][742]LogSavePackage: Moving output files for package: /Game/Kunter/levelk
+[2023.04.20-14.24.05:279][742]LogSavePackage: Moving '../../../../Unreal Projects/Project Past/Project_Past/Project_Past/Saved/levelk462E9BBE47B1AD87A7CA03BB644B1314.tmp' to '../../../../Unreal Projects/Project Past/Project_Past/Project_Past/Content/Kunter/levelk.umap'
+[2023.04.20-14.24.05:292][742]LogFileHelpers: Saving map 'levelk' took 0.030
+[2023.04.20-14.24.05:301][742]LogFileHelpers: InternalPromptForCheckoutAndSave took 109 ms (total: 1.33 sec)
+[2023.04.20-14.24.05:307][742]AssetCheck: New page: Asset Save: levelk
+[2023.04.20-14.24.05:307][742]LogContentValidation: Display: Validating /Script/Engine.World /Game/Kunter/levelk.levelk
