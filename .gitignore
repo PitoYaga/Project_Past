@@ -72,12 +72,5 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
-Project_Past/Saved/Logs/Project_Past.log
-Project_Past/Saved/Autosaves/Game/Utku/Level1BlockOut_Auto2.umap
-Project_Past/Saved/Autosaves/Game/Utku/Level1BlockOut_Auto3.umap
-Project_Past/Saved/Autosaves/Game/Utku/Level1BlockOut_Auto4.umap
-Project_Past/Saved/Autosaves/Game/Utku/Level1BlockOut_Auto5.umap
-Project_Past/Saved/Autosaves/Game/Utku/Level1BlockOut_Auto6.umap
-Project_Past/Saved/Autosaves/Game/Utku/Level1BlockOut_Auto7.umap
 *.log
 *.ini
