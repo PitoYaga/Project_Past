@@ -5,11 +5,23 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/Efe Canoglu/Desktop/Dersler/2.2/PipelineProject/Project_Past/Project_Past/Content/Blueprint/Characters/Player/BP_FirstPersonCharacter.uasset",
-				"C:/Users/Efe Canoglu/Desktop/Dersler/2.2/PipelineProject/Project_Past/Project_Past/Content/Blueprint/Interactable_Objects/Inspect/WB_ItemInfo.uasset",
+				"C:/Users/Efe Canoglu/Desktop/Dersler/2.2/PipelineProject/Project_Past/Project_Past/Content/Blueprint/Characters/Partner/BTT_MoveLocation.uasset",
+				"C:/Users/Efe Canoglu/Desktop/Dersler/2.2/PipelineProject/Project_Past/Project_Past/Content/Blueprint/Characters/Partner/BP_Partner.uasset",
 				"C:/Users/Efe Canoglu/Desktop/Dersler/2.2/PipelineProject/Project_Past/Project_Past/Content/Efe/WorkPlace.umap",
-				"C:/Users/Efe Canoglu/Desktop/Dersler/2.2/PipelineProject/Project_Past/Project_Past/Content/Blueprint/Interactable_Objects/Inspect/WB_Inspect_UI.uasset",
-				"C:/Users/Efe Canoglu/Desktop/Dersler/2.2/PipelineProject/Project_Past/Project_Past/Content/Blueprint/Interactable_Objects/Letters/BP_MasterLetter.uasset"
+				"C:/Users/Efe Canoglu/Desktop/Dersler/2.2/PipelineProject/Project_Past/Project_Past/Content/Audios/NPC_Audios/NPC_Footstep.uasset",
+				"C:/Users/Efe Canoglu/Desktop/Dersler/2.2/PipelineProject/Project_Past/Project_Past/Content/Audios/Player_Audios/Player_Footstep.uasset",
+				"C:/Users/Efe Canoglu/Desktop/Dersler/2.2/PipelineProject/Project_Past/Project_Past/Content/Animations/Player_Animations/Standard_Walk.uasset",
+				"C:/Users/Efe Canoglu/Desktop/Dersler/2.2/PipelineProject/Project_Past/Project_Past/Content/Audios/Player_Audios/Player_FootsperCue.uasset",
+				"C:/Users/Efe Canoglu/Desktop/Dersler/2.2/PipelineProject/Project_Past/Project_Past/Content/Animations/Player_Animations/Slow_Run.uasset",
+				"C:/Users/Efe Canoglu/Desktop/Dersler/2.2/PipelineProject/Project_Past/Project_Past/Content/Animations/Player_Animations/Walking_Backward.uasset",
+				"C:/Users/Efe Canoglu/Desktop/Dersler/2.2/PipelineProject/Project_Past/Project_Past/Content/Animations/Player_Animations/Running_Backward.uasset",
+				"C:/Users/Efe Canoglu/Desktop/Dersler/2.2/PipelineProject/Project_Past/Project_Past/Content/Animations/Player_Animations/Crouched_Walking.uasset",
+				"C:/Users/Efe Canoglu/Desktop/Dersler/2.2/PipelineProject/Project_Past/Project_Past/Content/Animations/Player_Animations/Crouch_Walk_Back.uasset",
+				"C:/Users/Efe Canoglu/Desktop/Dersler/2.2/PipelineProject/Project_Past/Project_Past/Content/Animations/Player_Animations/BS_IdleMovement.uasset",
+				"C:/Users/Efe Canoglu/Desktop/Dersler/2.2/PipelineProject/Project_Past/Project_Past/Content/Animations/Player_Animations/Fast_Run.uasset",
+				"C:/Users/Efe Canoglu/Desktop/Dersler/2.2/PipelineProject/Project_Past/Project_Past/Content/Audios/NPC_Audios/NPC_FootstepCue.uasset",
+				"C:/Users/Efe Canoglu/Desktop/Dersler/2.2/PipelineProject/Project_Past/Project_Past/Content/Animations/Partner_Animations/Partner_Walking.uasset",
+				"C:/Users/Efe Canoglu/Desktop/Dersler/2.2/PipelineProject/Project_Past/Project_Past/Content/Audios/NPC_Audios/NPC_Footspet_Attenuation.uasset"
 			]
 		}
 	]
