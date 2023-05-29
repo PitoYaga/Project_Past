@@ -5,9 +5,6 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"D:/Jam Projects/RealProject/Project_Past/Project_Past/Content/Utku/Level1_CarCinematic.umap",
-				"D:/Jam Projects/RealProject/Project_Past/Project_Past/Content/Blueprint/Characters/Player/BP_PlayerInCar.uasset",
-				"D:/Jam Projects/RealProject/Project_Past/Project_Past/Content/Blueprint/Characters/Partner/BP_PartnerInCar.uasset",
 				"C:/Users/Efe Canoglu/Desktop/Dersler/2.2/PipelineProject/Project_Past/Project_Past/Content/Blueprint/Characters/Partner/BTT_MoveLocation.uasset",
 				"C:/Users/Efe Canoglu/Desktop/Dersler/2.2/PipelineProject/Project_Past/Project_Past/Content/Blueprint/Characters/Partner/BP_Partner.uasset",
 				"C:/Users/Efe Canoglu/Desktop/Dersler/2.2/PipelineProject/Project_Past/Project_Past/Content/Efe/WorkPlace.umap",
@@ -24,7 +21,14 @@
 				"C:/Users/Efe Canoglu/Desktop/Dersler/2.2/PipelineProject/Project_Past/Project_Past/Content/Animations/Player_Animations/Fast_Run.uasset",
 				"C:/Users/Efe Canoglu/Desktop/Dersler/2.2/PipelineProject/Project_Past/Project_Past/Content/Audios/NPC_Audios/NPC_FootstepCue.uasset",
 				"C:/Users/Efe Canoglu/Desktop/Dersler/2.2/PipelineProject/Project_Past/Project_Past/Content/Animations/Partner_Animations/Partner_Walking.uasset",
-				"C:/Users/Efe Canoglu/Desktop/Dersler/2.2/PipelineProject/Project_Past/Project_Past/Content/Audios/NPC_Audios/NPC_Footspet_Attenuation.uasset"
+				"C:/Users/Efe Canoglu/Desktop/Dersler/2.2/PipelineProject/Project_Past/Project_Past/Content/Audios/NPC_Audios/NPC_Footspet_Attenuation.uasset",
+				"C:/Users/Efe Canoglu/Desktop/Dersler/2.2/PipelineProject/Project_Past/Project_Past/Content/Blueprint/Characters/Partner/BTT_FindPathPoint.uasset",
+				"C:/Users/Efe Canoglu/Desktop/Dersler/2.2/PipelineProject/Project_Past/Project_Past/Content/Blueprint/Characters/Player/BP_FirstPersonCharacter.uasset",
+				"C:/Users/Efe Canoglu/Desktop/Dersler/2.2/PipelineProject/Project_Past/Project_Past/Content/Blueprint/Characters/Player/BP_PlayerInCar.uasset",
+				"C:/Users/Efe Canoglu/Desktop/Dersler/2.2/PipelineProject/Project_Past/Project_Past/Content/Blueprint/Characters/Partner/BTT_IncreasePathIndex.uasset",
+				"D:/Jam Projects/RealProject/Project_Past/Project_Past/Content/Utku/Level1_CarCinematic.umap",
+				"D:/Jam Projects/RealProject/Project_Past/Project_Past/Content/Blueprint/Characters/Player/BP_PlayerInCar.uasset",
+				"D:/Jam Projects/RealProject/Project_Past/Project_Past/Content/Blueprint/Characters/Partner/BP_PartnerInCar.uasset"
 			]
 		}
 	]
