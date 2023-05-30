@@ -27,6 +27,9 @@
 				"C:/Users/Efe Canoglu/Desktop/Dersler/2.2/PipelineProject/Project_Past/Project_Past/Content/Blueprint/Characters/Player/BP_PlayerInCar.uasset",
 				"C:/Users/Efe Canoglu/Desktop/Dersler/2.2/PipelineProject/Project_Past/Project_Past/Content/Blueprint/Characters/Partner/BTT_IncreasePathIndex.uasset",
 				"C:/Users/Efe Canoglu/Desktop/Dersler/2.2/PipelineProject/Project_Past/Project_Past/Content/Blueprint/BP_Widgets/W_HUD.uasset",
+				"C:/Users/Efe Canoglu/Desktop/Dersler/2.2/PipelineProject/Project_Past/Project_Past/Content/Blueprint/Events/BP_StopPartner.uasset",
+				"C:/Users/Efe Canoglu/Desktop/Dersler/2.2/PipelineProject/Project_Past/Project_Past/Content/Blueprint/Events/BP_PatrolPartner.uasset",
+				"C:/Users/Efe Canoglu/Desktop/Dersler/2.2/PipelineProject/Project_Past/Project_Past/Content/Blueprint/Events/BP_PartnerPatrol.uasset",
 				"D:/Jam Projects/RealProject/Project_Past/Project_Past/Content/Utku/Level1_CarCinematic.umap",
 				"D:/Jam Projects/RealProject/Project_Past/Project_Past/Content/Blueprint/Characters/Player/BP_PlayerInCar.uasset",
 				"D:/Jam Projects/RealProject/Project_Past/Project_Past/Content/Blueprint/Characters/Partner/BP_PartnerInCar.uasset"
