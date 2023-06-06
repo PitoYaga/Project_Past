@@ -1,0 +1,31 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Efe Canoglu/Desktop/Dersler/2.2/PipelineProject/Project_Past/Project_Past/Content/Blueprint/Characters/Player/BP_FirstPersonCharacter.uasset",
+				"C:/Users/Efe Canoglu/Desktop/Dersler/2.2/PipelineProject/Project_Past/Project_Past/Content/Blueprint/Characters/Player/BP_PlayerInCar.uasset",
+				"C:/Users/Efe Canoglu/Desktop/Dersler/2.2/PipelineProject/Project_Past/Project_Past/Content/Assets/Dead_Body/Ch01_1001_Diffuse.uasset",
+				"C:/Users/Efe Canoglu/Desktop/Dersler/2.2/PipelineProject/Project_Past/Project_Past/Content/Assets/Dead_Body/Ch01_1001_Diffuse_ncl1_1.uasset",
+				"C:/Users/Efe Canoglu/Desktop/Dersler/2.2/PipelineProject/Project_Past/Project_Past/Content/Assets/Dead_Body/Ch01_1001_Glossiness.uasset",
+				"C:/Users/Efe Canoglu/Desktop/Dersler/2.2/PipelineProject/Project_Past/Project_Past/Content/Assets/Dead_Body/Ch01_1001_Normal.uasset",
+				"C:/Users/Efe Canoglu/Desktop/Dersler/2.2/PipelineProject/Project_Past/Project_Past/Content/Assets/Dead_Body/Ch01_1001_Normal_ncl1_1.uasset",
+				"C:/Users/Efe Canoglu/Desktop/Dersler/2.2/PipelineProject/Project_Past/Project_Past/Content/Assets/Dead_Body/Ch01_1001_Specular.uasset",
+				"C:/Users/Efe Canoglu/Desktop/Dersler/2.2/PipelineProject/Project_Past/Project_Past/Content/Assets/Dead_Body/Ch01_body.uasset",
+				"C:/Users/Efe Canoglu/Desktop/Dersler/2.2/PipelineProject/Project_Past/Project_Past/Content/Assets/Dead_Body/Ch01_hair.uasset",
+				"C:/Users/Efe Canoglu/Desktop/Dersler/2.2/PipelineProject/Project_Past/Project_Past/Content/Assets/Dead_Body/Ch01_nonPBR.uasset",
+				"C:/Users/Efe Canoglu/Desktop/Dersler/2.2/PipelineProject/Project_Past/Project_Past/Content/Assets/Dead_Body/Ch01_nonPBR_PhysicsAsset.uasset",
+				"C:/Users/Efe Canoglu/Desktop/Dersler/2.2/PipelineProject/Project_Past/Project_Past/Content/Assets/Dead_Body/Ch01_nonPBR_Skeleton.uasset",
+				"C:/Users/Efe Canoglu/Desktop/Dersler/2.2/PipelineProject/Project_Past/Project_Past/Content/Blueprint/Characters/Dead_Body/BP_Dead_Body.uasset",
+				"C:/Users/Efe Canoglu/Desktop/Dersler/2.2/PipelineProject/Project_Past/Project_Past/Content/Animations/Dead_Body_Anim/Dead_Body_Laying.uasset",
+				"C:/Users/Efe Canoglu/Desktop/Dersler/2.2/PipelineProject/Project_Past/Project_Past/Content/Efe/WorkPlace.umap",
+				"C:/Users/Efe Canoglu/Desktop/Dersler/2.2/PipelineProject/Project_Past/Project_Past/Content/Animations/Dead_Body_Anim/Rifle_Death.uasset",
+				"C:/Users/Efe Canoglu/Desktop/Dersler/2.2/PipelineProject/Project_Past/Project_Past/Content/Efe/CarTemplate.umap",
+				"C:/Users/Efe Canoglu/Desktop/Dersler/2.2/PipelineProject/Project_Past/Project_Past/Content/Blueprint/BP_Car.uasset",
+				"C:/Users/Efe Canoglu/Desktop/Dersler/2.2/PipelineProject/Project_Past/Project_Past/Content/Utku/Level1_CarCinematic.umap"
+			]
+		}
+	]
+}
