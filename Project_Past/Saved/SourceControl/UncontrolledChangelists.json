@@ -1,0 +1,17 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Efe Canoglu/Desktop/Dersler/2.2/PipelineProject/Project_Past/Project_Past/Content/Blueprint/Interactable_Objects/Inspect/BP_ClueInvestigation.uasset",
+				"C:/Users/Efe Canoglu/Desktop/Dersler/2.2/PipelineProject/Project_Past/Project_Past/Content/Blueprint/Characters/Player/BP_FirstPersonCharacter.uasset",
+				"C:/Users/Efe Canoglu/Desktop/Dersler/2.2/PipelineProject/Project_Past/Project_Past/Content/Efe/WorkPlace.umap",
+				"C:/Users/Efe Canoglu/Desktop/Dersler/2.2/PipelineProject/Project_Past/Project_Past/Content/Blueprint/Interactable_Objects/Inspect/House_01_Inspect/BP_TV.uasset",
+				"C:/Users/Efe Canoglu/Desktop/Dersler/2.2/PipelineProject/Project_Past/Project_Past/Content/Blueprint/Characters/Partner/BP_PartnerInCar.uasset",
+				"C:/Users/Efe Canoglu/Desktop/Dersler/2.2/PipelineProject/Project_Past/Project_Past/Content/Efe/CarMap.umap"
+			]
+		}
+	]
+}
