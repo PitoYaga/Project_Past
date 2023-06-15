@@ -5,6 +5,20 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/Efe Canoglu/Desktop/Dersler/2.2/PipelineProject/Project_Past/Project_Past/Content/Blueprint/Interactable_Objects/Inspect/BP_ClueInvestigation.uasset",
+				"C:/Users/Efe Canoglu/Desktop/Dersler/2.2/PipelineProject/Project_Past/Project_Past/Content/Blueprint/Characters/Player/BP_FirstPersonCharacter.uasset",
+				"C:/Users/Efe Canoglu/Desktop/Dersler/2.2/PipelineProject/Project_Past/Project_Past/Content/Efe/WorkPlace.umap",
+				"C:/Users/Efe Canoglu/Desktop/Dersler/2.2/PipelineProject/Project_Past/Project_Past/Content/Blueprint/Interactable_Objects/Inspect/House_01_Inspect/BP_TV.uasset",
+				"C:/Users/Efe Canoglu/Desktop/Dersler/2.2/PipelineProject/Project_Past/Project_Past/Content/Blueprint/Characters/Partner/BP_PartnerInCar.uasset",
+				"C:/Users/Efe Canoglu/Desktop/Dersler/2.2/PipelineProject/Project_Past/Project_Past/Content/Efe/CarMap.umap",
+				"C:/Users/Efe Canoglu/Desktop/Dersler/2.2/PipelineProject/Project_Past/Project_Past/Content/Utku/Level2_Apartment.umap",
+				"C:/Users/Efe Canoglu/Desktop/Dersler/2.2/PipelineProject/Project_Past/Project_Past/Content/Blueprint/Interactable_Objects/Inspect/BP_InspectableObject.uasset",
+				"C:/Users/Efe Canoglu/Desktop/Dersler/2.2/PipelineProject/Project_Past/Project_Past/Content/Blueprint/Interactable_Objects/Inspect/House_01_Inspect/BP_Bear.uasset",
+				"C:/Users/Efe Canoglu/Desktop/Dersler/2.2/PipelineProject/Project_Past/Project_Past/Content/Blueprint/Interactable_Objects/Inspect/House_01_Inspect/BP_Box.uasset",
+				"C:/Users/Efe Canoglu/Desktop/Dersler/2.2/PipelineProject/Project_Past/Project_Past/Content/Blueprint/Interactable_Objects/Inspect/House_01_Inspect/BP_Cereal.uasset",
+				"C:/Users/Efe Canoglu/Desktop/Dersler/2.2/PipelineProject/Project_Past/Project_Past/Content/Utku/Level1_CarCinematic.umap",
+				"C:/Users/Efe Canoglu/Desktop/Dersler/2.2/PipelineProject/Project_Past/Project_Past/Content/Blueprint/Characters/Player/BP_PlayerInCar.uasset",
+				"C:/Users/Efe Canoglu/Desktop/Dersler/2.2/PipelineProject/Project_Past/Project_Past/Content/Blueprint/Interactable_Objects/Inspect/BP_Studio.uasset",
 				"D:/Jam Projects/RealProject/Project_Past/Project_Past/Content/Utku/Level2_Apartment.umap",
 				"D:/Jam Projects/RealProject/Project_Past/Project_Past/Content/Utku/FirstHouseAssets/DaugterRoom/DaugterRoom/yatak/yatak.uasset",
 				"D:/Jam Projects/RealProject/Project_Past/Project_Past/Content/Utku/Level3_Chase.umap",
@@ -59,13 +73,7 @@
 				"D:/Jam Projects/RealProject/Project_Past/Project_Past/Content/VintageRoom/Materials/MI_Pipe.uasset",
 				"D:/Jam Projects/RealProject/Project_Past/Project_Past/Content/VintageRoom/Meshes/SM_Pipe_01a.uasset",
 				"D:/Jam Projects/RealProject/Project_Past/Project_Past/Content/VintageRoom/Textures/T_Floor_Lamp_01a_4096_B.uasset",
-				"D:/Jam Projects/RealProject/Project_Past/Project_Past/Content/VintageRoom/Textures/T_Floor_Lamp_01a_4096_N.uasset",
-				"C:/Users/Efe Canoglu/Desktop/Dersler/2.2/PipelineProject/Project_Past/Project_Past/Content/Blueprint/Interactable_Objects/Inspect/BP_ClueInvestigation.uasset",
-				"C:/Users/Efe Canoglu/Desktop/Dersler/2.2/PipelineProject/Project_Past/Project_Past/Content/Blueprint/Characters/Player/BP_FirstPersonCharacter.uasset",
-				"C:/Users/Efe Canoglu/Desktop/Dersler/2.2/PipelineProject/Project_Past/Project_Past/Content/Efe/WorkPlace.umap",
-				"C:/Users/Efe Canoglu/Desktop/Dersler/2.2/PipelineProject/Project_Past/Project_Past/Content/Blueprint/Interactable_Objects/Inspect/House_01_Inspect/BP_TV.uasset",
-				"C:/Users/Efe Canoglu/Desktop/Dersler/2.2/PipelineProject/Project_Past/Project_Past/Content/Blueprint/Characters/Partner/BP_PartnerInCar.uasset",
-				"C:/Users/Efe Canoglu/Desktop/Dersler/2.2/PipelineProject/Project_Past/Project_Past/Content/Efe/CarMap.umap"
+				"D:/Jam Projects/RealProject/Project_Past/Project_Past/Content/VintageRoom/Textures/T_Floor_Lamp_01a_4096_N.uasset"
 			]
 		}
 	]
