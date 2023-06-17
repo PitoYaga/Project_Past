@@ -5,15 +5,16 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/Jam Projects/RealProject/Project_Past/Project_Past/Content/Utku/Level3_Chase.umap",
+				"D:/Unreal Engine Versions/UE_5.1/Engine/Content/BasicShapes/Plane.uasset",
+				"D:/Jam Projects/RealProject/Project_Past/Project_Past/Content/Utku/Level2_Apartment.umap",
 				"C:/Users/Efe Canoglu/Desktop/Dersler/2.2/PipelineProject/Project_Past/Project_Past/Content/Blueprint/Interactable_Objects/OpenableObjects/BP_Closet.uasset",
 				"C:/Users/Efe Canoglu/Desktop/Dersler/2.2/PipelineProject/Project_Past/Project_Past/Content/Blueprint/Interactable_Objects/OpenableObjects/BP_Kapak.uasset",
 				"C:/Users/Efe Canoglu/Desktop/Dersler/2.2/PipelineProject/Project_Past/Project_Past/Content/Efe/WorkPlace.umap",
 				"C:/Users/Efe Canoglu/Desktop/Dersler/2.2/PipelineProject/Project_Past/Project_Past/Content/Blueprint/Characters/Player/BP_FirstPersonCharacter.uasset",
 				"C:/Users/Efe Canoglu/Desktop/Dersler/2.2/PipelineProject/Project_Past/Project_Past/Content/Blueprint/Interactable_Objects/OpenableObjects/BP_Door.uasset",
 				"C:/Users/Efe Canoglu/Desktop/Dersler/2.2/PipelineProject/Project_Past/Project_Past/Content/Utku/Level2_Apartment.umap",
-				"C:/Users/Efe Canoglu/Desktop/Dersler/2.2/PipelineProject/Project_Past/Project_Past/Content/Blueprint/Characters/Partner/BP_Partner1.uasset",
-				"D:/Jam Projects/RealProject/Project_Past/Project_Past/Content/Utku/Level3_Chase.umap",
-				"D:/Unreal Engine Versions/UE_5.1/Engine/Content/BasicShapes/Plane.uasset"
+				"C:/Users/Efe Canoglu/Desktop/Dersler/2.2/PipelineProject/Project_Past/Project_Past/Content/Blueprint/Characters/Partner/BP_Partner1.uasset"
 			]
 		}
 	]
