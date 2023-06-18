@@ -1,0 +1,30 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Efe Canoglu/Desktop/Dersler/2.2/PipelineProject/Project_Past/Project_Past/Content/Blueprint/Events/BP_Sequence_Player.uasset",
+				"C:/Users/Efe Canoglu/Desktop/Dersler/2.2/PipelineProject/Project_Past/Project_Past/Content/Utku/Level3_Chase.umap",
+				"C:/Users/Efe Canoglu/Desktop/Dersler/2.2/PipelineProject/Project_Past/Project_Past/Content/Blueprint/Characters/Murderer/BP_Murderer.uasset",
+				"C:/Users/Efe Canoglu/Desktop/Dersler/2.2/PipelineProject/Project_Past/Project_Past/Content/Blueprint/Interactable_Objects/Inspect/BP_InspectableObject.uasset",
+				"C:/Users/Efe Canoglu/Desktop/Dersler/2.2/PipelineProject/Project_Past/Project_Past/Content/Blueprint/Interactable_Objects/Inspect/BP_Studio.uasset",
+				"C:/Users/Efe Canoglu/Desktop/Dersler/2.2/PipelineProject/Project_Past/Project_Past/Content/Audios/SFX/abara.uasset",
+				"C:/Users/Efe Canoglu/Desktop/Dersler/2.2/PipelineProject/Project_Past/Project_Past/Content/Audios/SFX/Button_Click.uasset",
+				"C:/Users/Efe Canoglu/Desktop/Dersler/2.2/PipelineProject/Project_Past/Project_Past/Content/Audios/SFX/footstep.uasset",
+				"C:/Users/Efe Canoglu/Desktop/Dersler/2.2/PipelineProject/Project_Past/Project_Past/Content/Audios/SFX/interaction.uasset",
+				"C:/Users/Efe Canoglu/Desktop/Dersler/2.2/PipelineProject/Project_Past/Project_Past/Content/Audios/SFX/NPC_Footstep.uasset",
+				"C:/Users/Efe Canoglu/Desktop/Dersler/2.2/PipelineProject/Project_Past/Project_Past/Content/Audios/SFX/paper.uasset",
+				"C:/Users/Efe Canoglu/Desktop/Dersler/2.2/PipelineProject/Project_Past/Project_Past/Content/Audios/SFX/Player_Footstep.uasset",
+				"C:/Users/Efe Canoglu/Desktop/Dersler/2.2/PipelineProject/Project_Past/Project_Past/Content/Audios/SFX/siren.uasset",
+				"C:/Users/Efe Canoglu/Desktop/Dersler/2.2/PipelineProject/Project_Past/Project_Past/Content/Audios/SFX/street_ambiance.uasset",
+				"C:/Users/Efe Canoglu/Desktop/Dersler/2.2/PipelineProject/Project_Past/Project_Past/Content/Blueprint/Interactable_Objects/Letters/BP_MasterLetter.uasset",
+				"C:/Users/Efe Canoglu/Desktop/Dersler/2.2/PipelineProject/Project_Past/Project_Past/Content/Utku/Level1_CarCinematic.umap",
+				"C:/Users/Efe Canoglu/Desktop/Dersler/2.2/PipelineProject/Project_Past/Project_Past/Content/Blueprint/BP_Widgets/W_PauseMenu.uasset",
+				"C:/Users/Efe Canoglu/Desktop/Dersler/2.2/PipelineProject/Project_Past/Project_Past/Content/Blueprint/BP_Widgets/WB_MainMenu.uasset",
+				"C:/Users/Efe Canoglu/Desktop/Dersler/2.2/PipelineProject/Project_Past/Project_Past/Content/Blueprint/BP_Widgets/WB_Settings.uasset"
+			]
+		}
+	]
+}
