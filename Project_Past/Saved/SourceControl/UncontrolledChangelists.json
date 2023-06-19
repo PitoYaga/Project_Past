@@ -5,6 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/Jam Projects/RealProject/Project_Past/Project_Past/Content/Utku/Level1_CarCinematic.umap",
+				"D:/Jam Projects/RealProject/Project_Past/Project_Past/Content/Blueprint/BP_Car.uasset",
+				"D:/Jam Projects/RealProject/Project_Past/Project_Past/Content/Blueprint/Characters/Partner/BP_PartnerInCar.uasset",
+				"D:/Jam Projects/RealProject/Project_Past/Project_Past/Content/Utku/Level2_Apartment.umap",
+				"D:/Jam Projects/RealProject/Project_Past/Project_Past/Content/Utku/262267__gowlermusic__radio-static.uasset",
+				"D:/Jam Projects/RealProject/Project_Past/Project_Past/Content/Utku/WhatsApp_Audio_2023-06-19_at_20_23_01_dat.uasset",
 				"C:/Users/Efe Canoglu/Desktop/Dersler/2.2/PipelineProject/Project_Past/Project_Past/Content/Blueprint/Events/BP_Sequence_Player.uasset",
 				"C:/Users/Efe Canoglu/Desktop/Dersler/2.2/PipelineProject/Project_Past/Project_Past/Content/Utku/Level3_Chase.umap",
 				"C:/Users/Efe Canoglu/Desktop/Dersler/2.2/PipelineProject/Project_Past/Project_Past/Content/Blueprint/Characters/Murderer/BP_Murderer.uasset",
